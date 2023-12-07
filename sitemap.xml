@@ -5,27 +5,27 @@
       xsi:schemaLocation="https://www.sitemaps.org/schemas/sitemap/0.9 https://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://www.courtesy.github.io</loc>
+  <loc>https://www.courtesy1405.github.io</loc>
   <priority>1.00</priority>
 </url>
   <url>
-  <loc>https://courtesy.github.io</loc>
+  <loc>https://courtesy1405.github.io</loc>
   <priority>1.00</priority>
 </url>
   <url>
-  <loc>https://courtesy.github.io/vtf</loc>
+  <loc>https://courtesy1405.github.io/vtf</loc>
   <priority>1.00</priority>
 </url>
   <url>
-  <loc>https://courtesy.github.io/discord</loc>
+  <loc>https://courtesy1405.github.io/discord</loc>
   <priority>1.00</priority>
 </url>
    <url>
-  <loc>https://courtesy.github.io/security</loc>
+  <loc>https://courtesy1405.github.io/security</loc>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://courtesy.github.io/dox</loc>
+  <loc>https://courtesy1405.github.io/dox</loc>
   <priority>1.00</priority>
 </url>
 </urlset>
